@@ -1,3 +1,3 @@
 # ReactJS-Star-Wars
-## Uma aplicação web simples que consome uma api e lista alguns filmes da franquia Star Wars, feita em ReactJS.
-### Link site: https://vitorrrocha.github.io/Star-Wars-info/
+## A simple web application that consumes an api and list of some films from the Star Wars franchise, made in ReactJS.
+### Website link: https://vitorrrocha.github.io/Star-Wars-info/
